@@ -1,0 +1,9 @@
+{
+    "name": "net.litjson",
+    "displayName": "LitJson",
+    "version": "0.18.0",
+    "unity": "2018.3",
+    "description": "A .Net library to handle conversions from and to JSON (JavaScript Object Notation) strings.",
+    "license": "UNLICENSED",
+    "dependencies": {}
+}
